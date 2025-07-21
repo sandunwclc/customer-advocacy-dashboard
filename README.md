@@ -1,2 +1,2 @@
-# ustomer-advocacy-dashboard
-ustomer-advocacy-dashboard
+# customer-advocacy-dashboard
+customer-advocacy-dashboard
